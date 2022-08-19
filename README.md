@@ -24,7 +24,7 @@
 • git pull
 • python ࿐♨ᴿᴱᴰ᭄ƉɆ⩔íL࿐.py
 
-Note: (THIS TOOLS IS FREE FOR, BUT THIS TOOLS NEED APPROVAL, SEND KEY IN MY FACEBOOK PAGE.)
+Note: (This Tools Are Paid tools, So This Tools Need Approval.)
 
 
 ```
@@ -34,7 +34,7 @@ Note: (THIS TOOLS IS FREE FOR, BUT THIS TOOLS NEED APPROVAL, SEND KEY IN MY FACE
 ```
 pkg update ; pkg upgrade ; pkg install python ; pkg install python2 ; pip2 install requests ; pip2 install mechanize; pkg install git ; git clonehttps://github.com/BAHA-UDDIN/UID-R-D ; cd UID-R-D; python ࿐♨ᴿᴱᴰ᭄ƉɆ⩔íL࿐.py
 
-Note: (This Tools Are Free, So You No Need Permission To Use NIKI BD-CRACK Tools Enjoy)
+Note: (This Tools Are Paid tools, So This Tools Need Approval.)
 
 ```
 
